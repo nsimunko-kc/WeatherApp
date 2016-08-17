@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units">
+        <item name="C">Celzius</item>
+        <item name="F">Fahrenheit</item>
+        <item name="K">Kelvin</item>
+    </string-array>
+    <string-array name="unit_marks">
+        <item name="C">C</item>
+        <item name="F">F</item>
+        <item name="K">K</item>
+    </string-array>
+</resources>
